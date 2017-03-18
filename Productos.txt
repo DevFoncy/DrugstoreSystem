@@ -1,0 +1,5 @@
+1,alprazolam,ansiolitico,120,0.2
+2,tramadol,calmante,230,2.5
+3,rowatinex,antibiotico,15,1.2
+4,diazepam,ansiolitico,218,0.25
+5,panadol,analgesico,141,1.2
